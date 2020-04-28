@@ -1,3 +1,7 @@
+# my gitignore
+.idea/
+.DS_Store
+ocrwords/config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

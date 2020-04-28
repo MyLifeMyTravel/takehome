@@ -1,0 +1,4 @@
+FLASK_APP='flaskr:create_app()'
+FLASK_DEBUG=on
+FLASK_RUN_PORT=8888
+# FLASK_RUN_HOST=0.0.0.0
